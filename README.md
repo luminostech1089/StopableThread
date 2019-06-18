@@ -1,1 +1,1 @@
-# StopableThread
+# StoppableThread
